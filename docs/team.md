@@ -34,7 +34,7 @@ const members = [
 const catsistant = [
 
           {
-    avatar: '/nina.jpg',
+    avatar: './nina.jpg',
     name: 'Nina',
     title: 'Catsistant',
     links: [
@@ -44,7 +44,7 @@ const catsistant = [
   },
 
       {
-    avatar: '/mirena.jpg',
+    avatar: './mirena.jpg',
     name: 'Mirena',
     title: 'Catsistant',
     links: [
