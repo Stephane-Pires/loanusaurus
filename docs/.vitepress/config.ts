@@ -38,7 +38,7 @@ export default defineConfig({
   title: 'Loanusaurus',
   description: 'A documentation site, to learn about Real estate Loan ',
   lastUpdated: true,
-
+  base: '/loanusaurus/'
 
   themeConfig: {
     // Type is `DefaultTheme.Config`s
